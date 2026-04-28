@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+pandas
+scikit-learn
+fairlearn
+matplotlib
+reportlab
+numpy
